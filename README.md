@@ -4,7 +4,7 @@ THIS IS THE DATA SCIENCE PROJECT :TRADER BEHAVIOUR INSIGHTS
 BY : ABHISHEK VERMA
 
 
-Objective:
+1.Objective:
 To analyze historical trading data (~211K trades) and understand the relationship between trader performance and market sentiment.
 
 To engineer meaningful features from raw trade records.
